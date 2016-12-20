@@ -33,5 +33,5 @@ This is a simple program to use mssql with python3
 
 
 -----------------
-| [website](http://semiworld.org/) 
+| [Visit my website](http://semiworld.org/) 
 -----------------
